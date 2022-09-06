@@ -4,7 +4,7 @@
 
 ##### 🙂 Hello, My name is Hong-JinSuk 🏃   
 ##### 🔭 I'm currently in the thrid year of computer engineering undergraduate student at ChungBuk National University   
-##### 🌱 I’m currently learning and interested about Computer-Enginering   
+##### 🌱 I’m currently learning and interested about Computer-Engineering   
 ##### 🔥 "Keep Learning"
 
 
