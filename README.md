@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=JinSuk's%20Github&fontColor=FF9900&fontSize=40)
 
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=IamJunhaHwang&show_icons=true&theme=dracula" />
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Hong-JinSuk&show_icons=true&theme=dracula" />
 
 ##### 🙂 Hello, My name is Hong-JinSuk 🏃   
 ##### 🔭 I'm currently in the thrid year of computer engineering undergraduate student at ChungBuk National University   
