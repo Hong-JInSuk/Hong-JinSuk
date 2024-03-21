@@ -2,10 +2,10 @@
 
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Hong-JinSuk&show_icons=true&theme=dracula" />
 
-##### 🙂 Hello, My name is Hong-JinSuk 🏃   
-##### 🔭 I'm currently in the thrid year of computer engineering undergraduate student at ChungBuk National University   
-##### 🌱 I’m currently learning and interested about Computer-Engineering   
-##### 🔥 "Keep Learning"
+##### 🙂 Hello, My name is Hong-JinSuk  
+##### 🧑‍🎓 I graduated from the Department of Computer Engineering at Chungbuk National University.  
+##### 🌱 Now, I am currently studying in the goormtonTraining Full-Stack 7th. 
+##### 🔥 "Always keep learning"
 
 
 ---------
