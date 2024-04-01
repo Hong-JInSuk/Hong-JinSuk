@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=JinSuk's%20Github&fontColor=FF9900&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=RealTone's%20Github&fontColor=FF9900&fontSize=40)
 
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Hong-JinSuk&show_icons=true&theme=dracula" />
 
